@@ -15,7 +15,7 @@ I'm getting to learn JavaScript recently.
 ## 🧐 About
 
 - ‍Guy who loves being involved in an active lifestyle
-- I will usually find a way to participate in hackathons
+- Enthusiastic to participate in Hackathons
 - Passionate about educating myself of software development and core principles
 - Currently a coding bootcamp student in training
 - I love public speaking and have been a host for many events
