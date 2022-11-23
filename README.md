@@ -4,6 +4,17 @@ There is the space where I share my treasures and take a break.
 
 I'm getting to learn JavaScript recently.
 
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-joonkidk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joonkidk/)](https://www.linkedin.com/in/joonkidk/)
+[![Instagram Badge](https://img.shields.io/badge/-joonkidk-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joonkidk/)](https://www.instagram.com/joonkidk/)
+[![Gmail Badge](https://img.shields.io/badge/-joonkidk@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonkidk@gmail.com)](mailto:joonkidk@gmail.com)
+## ⚡ Domains:
+- Software Development
+- Web Development
+- UI/UX
+
 <details>
 <summary>⚡️More about me</summary>
 <br />
