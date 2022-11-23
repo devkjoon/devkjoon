@@ -7,9 +7,6 @@ I'm getting to learn JavaScript recently.
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-joonkidk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joonkidk/)](https://www.linkedin.com/in/joonkidk/)
-[![Instagram Badge](https://img.shields.io/badge/-joonkidk-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joonkidk/)](https://www.instagram.com/joonkidk/)
-[![Gmail Badge](https://img.shields.io/badge/-joonkidk@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonkidk@gmail.com)](mailto:joonkidk@gmail.com)
 ## ⚡ Domains:
 - Software Development
 - Web Development
@@ -24,3 +21,12 @@ I'm getting to learn JavaScript recently.
 ![joonkidk's github stats](https://github-readme-stats.vercel.app/api?username=joonkidk&count_private=true&show_icons=true&theme=onedark)
 
 </details>
+
+---
+
+<i>Find me on the web!:</i><br>
+
+<a href="https://www.linkedin.com/in/joonkidk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/joonidk" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/joonsdevacc" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/user/227fhrlnv2kfms5zgb77iptja" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
