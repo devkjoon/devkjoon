@@ -1,4 +1,4 @@
-### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+### Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 There is the space where I share my treasures and take a break.
 
@@ -15,10 +15,10 @@ I'm getting to learn JavaScript recently.
 ## 🧐 About
 
 - ‍Guy who loves being involved in an active lifestyle
-- I will usually find a way to be a part of hackathons
+- I will usually find a way to participate in hackathons
 - Passionate about educating myself of software development and core principles
+- Currently a coding bootcamp student in training
 - I love public speaking and have been a host for many events
-- And many more to come... (hopefully)
 
 <details>
 <summary>⚡️More about me</summary>
