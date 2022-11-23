@@ -12,6 +12,13 @@ I'm getting to learn JavaScript recently.
 - Web Development
 - UI/UX
 
+## 🧐 About
+
+- ‍Guy who loves being involved in an active lifestyle
+- I will usually find a way to be a part of hackathons
+- I love public speaking and have been a host for many events
+- And Many More...
+
 <details>
 <summary>⚡️More about me</summary>
 <br />
