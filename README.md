@@ -16,8 +16,9 @@ I'm getting to learn JavaScript recently.
 
 - ‍Guy who loves being involved in an active lifestyle
 - I will usually find a way to be a part of hackathons
+- Passionate about educating myself of software development and core principles
 - I love public speaking and have been a host for many events
-- And Many More...
+- And many more to come... (hopefully)
 
 <details>
 <summary>⚡️More about me</summary>
@@ -30,6 +31,7 @@ I'm getting to learn JavaScript recently.
 </details>
 
 ---
+<div align="center">
 
 <i>Find me on the web!:</i><br>
 
@@ -37,3 +39,5 @@ I'm getting to learn JavaScript recently.
 <a href="https://www.instagram.com/joonidk" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/joonsdevacc" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/227fhrlnv2kfms5zgb77iptja" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
+</div>
