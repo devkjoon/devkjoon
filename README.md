@@ -4,7 +4,7 @@ There is the space where I share my treasures and take a break.
 
 I'm currently in progress of mastering JavaScript.
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img padding-left='10px' align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
 ## ⚡ Domains:
