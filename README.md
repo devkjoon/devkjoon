@@ -4,7 +4,7 @@ There is the space where I share my treasures and take a break.
 
 I'm currently in progress of mastering JavaScript.
 
-<img padding-left='10px' align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
 ## ⚡ Domains:
@@ -14,7 +14,7 @@ I'm currently in progress of mastering JavaScript.
 
 ## 🧐 About
 
-- ‍Guy who loves being involved in an active lifestyle
+- ‍Loves being committed to an active lifestyle
 - Enthusiastic to participate in Hackathons
 - Passionate about educating myself of software development and core principles
 - Currently a coding bootcamp student in training
