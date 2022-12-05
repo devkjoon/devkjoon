@@ -8,7 +8,7 @@ I'm currently in progress of mastering JavaScript!
 
 
 ## ⚡ Domains:
-- Frontend Focused
+- Full Stack focused
 - Web Development
 - UI/UX
 
