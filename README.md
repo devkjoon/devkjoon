@@ -24,9 +24,9 @@ I'm currently in progress of mastering JavaScript!
 <summary>⚡️More about me</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonkidk&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkjoon&layout=compact)
 
-![joonkidk's github stats](https://github-readme-stats.vercel.app/api?username=joonkidk&count_private=true&show_icons=true&theme=onedark)
+![joonkidk's github stats](https://github-readme-stats.vercel.app/api?username=devkjoon&count_private=true&show_icons=true&theme=onedark)
 
 </details>
 
