@@ -15,9 +15,8 @@ I'm currently in progress of mastering JavaScript!
 ## 🧐 About
 
 - ‍Committed to an active lifestyle
-- Enthusiastic to participate in Hackathons
 - Passionate about educating myself of software development and principles
-- Currently a coding bootcamp student in training
+- Coding bootcamp graduate
 - I love public speaking and have been a host for many events
 
 <details>
