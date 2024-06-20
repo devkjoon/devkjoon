@@ -8,16 +8,15 @@ I'm currently in progress of mastering JavaScript!
 
 
 ## ⚡ Domains:
-- Full Stack focused
-- Web Development
-- UI/UX
+- Fullstack Focused
+- Prioritizing React
+- Have been really interested in the backend of things recently
 
 ## 🧐 About
 
 - ‍Committed to an active lifestyle
-- Passionate about educating myself of software development and principles
-- Coding bootcamp graduate
-- I love public speaking and have been a host for many events
+- I play too much golf to not be good at it, but I'm still not good at it
+- Currently consulting for web development with various organizations
 
 <details>
 <summary>⚡️More about me</summary>
